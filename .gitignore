@@ -8,3 +8,14 @@
 .worktrees/
 .security-key
 logs/security/
+
+# AL build artifacts
+.alpackages/
+*.app
+
+# Build scripts (temporary)
+build-app.ps1
+publish-app.ps1
+publish-app2.ps1
+publish-app3.ps1
+verify-app.ps1
